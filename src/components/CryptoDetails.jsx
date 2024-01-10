@@ -1,3 +1,4 @@
+import HTMLReactParser from 'html-react-parser'
 import React from 'react'
 
 const CryptoDetails = () => {
